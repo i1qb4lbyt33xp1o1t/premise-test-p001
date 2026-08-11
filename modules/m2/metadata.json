@@ -1,0 +1,14 @@
+{
+  "homepage": "https://example.invalid/m2",
+  "maintainers": [
+    {
+      "name": "m2 maintainer",
+      "github": "muhammadiqbaalmusyaffa-debug",
+      "github_user_id": 315443372
+    }
+  ],
+  "versions": [
+    "1.0.0"
+  ],
+  "yanked_versions": {}
+}

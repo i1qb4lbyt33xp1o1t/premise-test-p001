@@ -1,0 +1,14 @@
+{
+  "homepage": "https://example.invalid/m1",
+  "maintainers": [
+    {
+      "name": "m1 maintainer",
+      "github": "i1qb4lbyt33xp1o1t",
+      "github_user_id": 148077854
+    }
+  ],
+  "versions": [
+    "1.0.0"
+  ],
+  "yanked_versions": {}
+}

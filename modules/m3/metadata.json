@@ -1,0 +1,14 @@
+{
+  "homepage": "https://example.invalid/m3",
+  "maintainers": [
+    {
+      "name": "m3 maintainer",
+      "github": "chyntiache",
+      "github_user_id": 148640963
+    }
+  ],
+  "versions": [
+    "1.0.0"
+  ],
+  "yanked_versions": {}
+}
