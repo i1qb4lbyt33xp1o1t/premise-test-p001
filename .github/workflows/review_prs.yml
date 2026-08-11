@@ -16,5 +16,5 @@ jobs:
         if: github.repository_owner == 'i1qb4lbyt33xp1o1t'
         uses: i1qb4lbyt33xp1o1t/continuous-integration-mirror/actions/bcr-pr-reviewer@35d5c5d6c3d7782264aac16b29ab77b9017c4020
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.BCR_PR_REVIEW_HELPER_TOKEN }}
           action-type: review_prs
