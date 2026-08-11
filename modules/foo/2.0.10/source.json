@@ -1,0 +1,5 @@
+{
+  "integrity": "sha256-0000000000000000000000000000000000000000000=",
+  "strip_prefix": "foo-2.0.10",
+  "url": "https://example.invalid/foo/2.0.10.tar.gz"
+}
